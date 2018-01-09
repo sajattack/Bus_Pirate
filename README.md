@@ -65,4 +65,4 @@ The Bus Pirate is used through a simple terminal interface, but these applicatio
 [flashrom]: https://www.flashrom.org/Flashrom
 
 ## Firmware Flashing
-Refer to [building-and-flashing](Documentation/building-and-flashing.md) to see how to build and flash this firmware
+Refer to [building-and-flashing]-firmware(Documentation/building-and-flashing-firmware.md) to see how to build and flash this firmware
