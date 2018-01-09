@@ -27,5 +27,14 @@ chmod +x MPLABX-*.sh
 Follow the prompts to install MPLAB-X
 
 # Building
+Open MPLAB-X
+
+Click File>Open Project and navigate to Bus_Pirate/Firmware/busPirate.X
+
+Select BusPirate_v3 or BusPirate_v4 from the dropdown menu in the toolbar
+
+Click the hammer in the toolbar.
+
+Your firmware will be saved in Bus_Pirate/Firmware/busPirate.X/dist/BusPirate_v*/production/busPirate.X.production.hex
 
 # Flashing
